@@ -1,0 +1,2 @@
+IBM Watson-studio:  https://jp-tok.dataplatform.cloud.ibm.com/analytics/notebooks/v2/e09fa8e0-10a7-45b8-b069-ed1c37cb4277?projectid=eda75ef7-686f-49b4-baee-969ee73d48a9&projectTitle=Capstone_project&context=analytics
+IBM Watson-studio:  https://jp-tok.dataplatform.cloud.ibm.com/analytics/notebooks/v2/3a2a1b2e-c60e-48ff-8051-002304c3d6fd/view?projectid=eda75ef7-686f-49b4-baee-969ee73d48a9&context=analytics
